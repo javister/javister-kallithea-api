@@ -19,6 +19,9 @@
 *.tar.gz
 *.rar
 
+# Maven target folder
+target
+
 # HG reverted file
 *.orig
 
