@@ -1,0 +1,19 @@
+# путь к логу (обязательная настройка)
+swarmlog: 'swarm.log'
+# настройки подключения к базе
+databaseurl: 'jdbc:postgresql://localhost:5433/kallithea'
+dblogin: 'system'
+dbpassword: 'masterkey'
+# настройки запуска
+httpport: 8081
+managementport: 9995
+mailhost: 'localhost'
+mailport: 25
+mailfrom: 'user1@example.com'
+kallithea:
+  home: "http://kallithea.example.com/"
+  lock: 'kallithea.lock'
+  user:
+    apiKey: '19a11ab5e7be11dda27ddb6cdf06cad3c7b4c7c8'
+repository:
+  home: 'd:/repository'
