@@ -22,7 +22,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <io.thorntail.version>2.0.0.Final</io.thorntail.version>
-        <version.wildfly>10.1.0.Final</version.wildfly>
+        <version.wildfly>23.0.2.Final</version.wildfly>
         <version.org.wildfly.core>2.2.1.CR1</version.org.wildfly.core>
         <deltaspike.version>1.8.0</deltaspike.version>
         <version.hibernate>5.0.7.Final</version.hibernate>
